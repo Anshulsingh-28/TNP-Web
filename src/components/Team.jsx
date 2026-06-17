@@ -411,7 +411,7 @@ image_name: "Amrita_Vani.jpg",
   position: "Website and Media Coordinator",
   branch: "CSE",
   linkedin: "https://www.linkedin.com/in/anshul-singh-b69652331/",
-  image_name: "Anshul_Singh.jpg",
+  image_name: "Anshul_Singh.jpeg",
   },
   {
   name: "Pasham Laxmi",
