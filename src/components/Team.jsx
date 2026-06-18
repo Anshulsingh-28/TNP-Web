@@ -146,7 +146,7 @@ const Team = () => {
       position: "Placement Coordinator",
       branch: "CE",
       linkedin: "https://www.linkedin.com/in/kamal-nayan-16a592345/",
-      image_name: "Kamal_Nayan.jpeg",
+      image_name: "Kamal_Nayan.jpg",
     },
     {
       name: "Piyush Dev",
